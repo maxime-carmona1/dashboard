@@ -1,0 +1,18 @@
+{
+  "productionMode": false,
+  "useDeprecatedV14Bootstrapping": false,
+  "eagerServerLoad": false,
+  "npmFolder": "/home/carmona/dashboard",
+  "node.version": "v16.18.0",
+  "node.download.root": "https://nodejs.org/dist/",
+  "generatedFolder": "/home/carmona/dashboard/target/frontend",
+  "frontendFolder": "/home/carmona/dashboard/frontend",
+  "connect.javaSourceFolder": "/home/carmona/dashboard/src/main/java",
+  "javaResourceFolder": "/home/carmona/dashboard/src/main/resources",
+  "connect.applicationProperties": "/home/carmona/dashboard/src/main/resources/application.properties",
+  "connect.openApiFile": "/home/carmona/dashboard/target/generated-resources/openapi.json",
+  "project.frontend.generated": "/home/carmona/dashboard/frontend/generated",
+  "pnpm.enable": false,
+  "require.home.node": false,
+  "build.folder": "target"
+}

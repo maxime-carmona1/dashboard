@@ -1,0 +1,14 @@
+{
+  "frontendFolder": "/home/carmona/dashboard/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/carmona/dashboard/target/flow-frontend",
+  "staticOutput": "target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "frontendBundleOutput": "target/classes/META-INF/VAADIN/webapp/",
+  "addonFrontendFolder": "target/flow-frontend/",
+  "themeName": "",
+  "clientServiceWorkerSource": "/home/carmona/dashboard/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
